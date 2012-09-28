@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>jnecarrierbykenjiro43</name>
+	<displayName><![CDATA[JNE Carrier By Kenjiro43]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Pengiriman menggunakan JNE]]></description>
+	<author><![CDATA[Kenjiro43]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries>id</limited_countries>
+</module>
